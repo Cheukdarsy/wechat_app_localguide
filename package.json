@@ -20,6 +20,9 @@
     "url": "https://github.com/Cheukdarsy/WXAPP-waiter/issues"
   },
   "homepage": "https://github.com/Cheukdarsy/WXAPP-waiter#readme",
+  "scripts": {
+    "start": "node bin/www.js"
+  },
   "dependencies": {
     "eslint": "^4.7.2",
     "eslint-config-airbnb": "^15.1.0",
