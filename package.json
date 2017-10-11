@@ -1,0 +1,41 @@
+{
+  "name": "wxapp-waiter",
+  "version": "1.0.0",
+  "description": "a wechat app connecting tourist and locals",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Cheukdarsy/WXAPP-waiter.git"
+  },
+  "keywords": [
+    "wechat",
+    "koa2"
+  ],
+  "author": "Darsy Cheuk",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Cheukdarsy/WXAPP-waiter/issues"
+  },
+  "homepage": "https://github.com/Cheukdarsy/WXAPP-waiter#readme",
+  "dependencies": {
+    "eslint": "^4.7.2",
+    "eslint-config-airbnb": "^15.1.0",
+    "eslint-plugin-import": "^2.7.0",
+    "eslint-plugin-jsx-a11y": "^6.0.2",
+    "eslint-plugin-react": "^7.4.0",
+    "ioredis": "^3.1.4",
+    "jsonwebtoken": "^7.4.3",
+    "koa": "^2.3.0",
+    "koa-bodyparser": "^4.2.0",
+    "koa-compose": "^4.0.0",
+    "koa-convert": "^1.2.0",
+    "koa-cors": "^0.0.16",
+    "koa-logger": "^3.0.0",
+    "koa-router": "^7.2.1",
+    "log4js": "^1.1.1",
+    "mongoose": "^4.11.0"
+  }
+}
